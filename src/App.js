@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Hari Hari
+          Learn Hari Hari Hari 2
         </a>
       </header>
     </div>
