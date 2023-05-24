@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Hari ha ha
+          Windows Check
         </a>
       </header>
     </div>
